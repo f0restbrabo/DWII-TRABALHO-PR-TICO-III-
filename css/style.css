@@ -1,0 +1,15 @@
+#postForm {
+    margin-bottom: 20px;
+}
+
+.like-btn, .delete-btn {
+    margin-right: 10px;
+}
+
+.card {
+    width: 100%;
+}
+
+.navbar-brand img {
+    margin-right: 5px;
+}
